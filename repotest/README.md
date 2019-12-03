@@ -8,3 +8,4 @@ git add README.md #add it to staging area in order to commit
 git commit -m "Added changes in README.md" #this commits the changes w/ a message 
 git remote add origin https://github.com/Juniorl2987/repotest.git #to set it up for github 
 git push -u origin master #to push it to github
+test
