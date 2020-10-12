@@ -8,4 +8,6 @@
 
 ---
 
-[You go and hide](choice1a/scene1a.md)
+## [Walk around](../choice1a/scene1a.md)
+
+## [Stay and sleep](../choice2a/scene2a.md)
